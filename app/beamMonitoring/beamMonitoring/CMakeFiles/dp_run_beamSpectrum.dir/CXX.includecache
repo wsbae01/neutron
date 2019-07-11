@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/dune/app/users/gyang/DUNE3dstTools/app/beamMonitoring/run_beamSpectrum.cxx
+beamSpectrum.hxx
+/dune/app/users/gyang/DUNE3dstTools/app/beamMonitoring/beamSpectrum.hxx
+

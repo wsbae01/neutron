@@ -1,0 +1,5 @@
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/beamMonitoring)
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/fluxSTV)
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/nBKG)
+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/NuModel)
+#add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/elecSim)
